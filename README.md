@@ -1,0 +1,2 @@
+# MovieReviewMermaid
+利用Python爬蟲抓下Ptt Movie版的資料，資料清洗後做評價計算，提供使用者快速查詢鄉民們對電影的評價
